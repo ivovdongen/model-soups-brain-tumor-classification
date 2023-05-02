@@ -1,2 +1,2 @@
-# model-soups-brain-tumor-classification
+# Model Soups of ViT's for Brain Tumor Classification
 This repository contains a Python codebase for Brain Tumor Classification from Magnetic Resonance Imaging scans using Model Soups of Vision Transformers. This project was conducted for the Master thesis "Comparison of individual Vision Transformers and Model Soups for Brain Tumor Classification on Magnetic Resonance Images", conducted by Ivo van Dongen at Tilburg University.
