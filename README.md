@@ -9,4 +9,4 @@ This project is inspired by the great paper ['Model soups: averaging weights of 
 The dataset used in this thesis is the "Brain Tumor MRI Dataset" (version 1) from [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). This dataset contains 7023 Magnetic Resonance Imaging (MRI) scans from the brains of real human subjects and no other (personal) data. The dataset is publicly available under a 'CC:0 Public Domain' license. The dataset combines the following three public datasets: "Figshare", "SARTAJ", and "Br35H".
 
 ## Vision Transformers
-'ViT-B32', 'ViT-B16', and 'ViT-L16' architectures from the vit-keras library are trained.
+'ViT-B/16', 'ViT-B/32', 'ViT-L/16', and 'ViT-L/32' architectures from the 'vit-keras' library are fine-tuned.
