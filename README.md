@@ -2,7 +2,7 @@
 This repository contains a Python codebase for Brain Tumor Classification from Magnetic Resonance Imaging scans using Model Soups of Vision Transformers. This project was conducted for a Master thesis titled "Comparison of individual Vision Transformers and Model Soups for Brain Tumor Classification on Magnetic Resonance Images", conducted by Ivo van Dongen at Tilburg University.
 
 ## Model Soups
-This project is inspired by the great paper ['Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time'](https://arxiv.org/abs/2203.05482) by Wortsman et al. (2022). We proposed a new souping technique titled 'Combi Soup' which relies on the bonomial theorem and increases the search space that is considered by Greedy Soup.
+This project is inspired by the great paper ['Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time'](https://arxiv.org/abs/2203.05482) by Wortsman et al. (2022). We proposed a new souping technique titled 'Combi Soup' which relies on the binomial theorem and increases the search space that is considered by Greedy Soup.
 
 
 ## Dataset
