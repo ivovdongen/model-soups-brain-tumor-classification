@@ -10,3 +10,8 @@ The dataset used in this thesis is the "Brain Tumor MRI Dataset" (version 1) fro
 
 ## Vision Transformers
 'ViT-B/16', 'ViT-B/32', 'ViT-L/16', and 'ViT-L/32' architectures from the 'vit-keras' library are fine-tuned. The highest accuracy was obtained by an individual ViT-L/32 model with 95.306% accuracy and 95.055% macro recall.
+
+## File description
+'environment.yml': Anaconda enviroment used for this project.
+'fine-tune_models.py': Fine-tunes 26 ViT's with the same architecture and initialization.
+'create-modelsoups.py': Loads paths to previously fine-tuned models and constructs a Uniform-, Greedy-, and Combi Soup. 
